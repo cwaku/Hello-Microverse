@@ -11,10 +11,6 @@ Showing my ability to add documentation to my project, add linters and also use 
 
 - HTML and CSS
 
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
 
 ## Getting Started
 
